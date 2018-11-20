@@ -1,0 +1,26 @@
+.Header {
+  display: flex;
+  margin: 20px;
+}
+
+.Header__link--main {
+  background-image: url("./logo-light-2x.png");
+  background-size: cover;
+  display: block;
+  height: 102px;
+  overflow: hidden;
+  width: 73px;
+}
+
+.Header__linkText {
+  margin: -1000px;
+}
+
+.Header__link--secondary {
+  background-image: url("./clinvitae.png");
+  background-size: cover;
+  display: block;
+  height: 21px;
+  overflow: hidden;
+  width: 182px;
+}

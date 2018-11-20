@@ -1,0 +1,14 @@
+.SearchBox {
+  margin: 0 auto;
+}
+
+.SearchBox__button {
+  background-color: #11ae96;
+  color: white;
+  cursor: pointer;
+}
+
+.SearchBox__button--disabled {
+  cursor: not-allowed;
+  color: grey;
+}
